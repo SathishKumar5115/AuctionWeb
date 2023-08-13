@@ -1,2 +1,2 @@
 # AuctionWeb
-Website to comduct and participate in auction.
+Website to conduct and participate in auction.
